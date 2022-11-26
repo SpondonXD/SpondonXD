@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Spondon
-- 👀 I’m interested in Sleeping
-- 🌱 I’m currently learning Html,Css and js
-- 💞️ I’m looking to collaborate on Discord
-- 📫 How to reach me 𝐌𝐗™〢ѕσмєσηє × 🪐#7744
+-  Hi, I’m Spondon ⚓
+-  I’m interested in Sleeping and Reading Books📖
+-  I already learned HTML and CSS gonna learn python and js in the future💪
+-  I’m looking to collaborate on my life 🍷
+-  How to reach me ! OиcєWαsSomєOиє🍷™#7744 🎶
 
 <!---
 SpondonXD/SpondonXD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
