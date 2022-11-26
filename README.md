@@ -1,7 +1,7 @@
 -  Hi, I’m Spondon ⚓
 -  I’m interested in Sleeping and Reading Books📖
 -  I already learned HTML and CSS gonna learn python and js in the future💪
--  I’m looking to collaborate on my life 🍷
+-  I’m looking to collaborate in my life 🥂
 -  How to reach me ! OиcєWαsSomєOиє🍷™#7744 🎶
 
 <!---
